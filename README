@@ -9,3 +9,5 @@ somewhere in your python path (e.g. the current working dir) and add::
 This will map psycopg2ct to psycopg2.
 
 This is a port of Alex Gaynor's rpython port (https://bitbucket.org/alex_gaynor/pypy-postgresql/overview) of psycopg2 to python + ctypes.
+
+Requires PostgresSQL 9.0 libraries.
